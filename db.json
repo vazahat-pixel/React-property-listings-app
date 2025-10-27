@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Lakeview Apartment",
+      "type": "Apartment",
+      "price": 4500000,
+      "location": "Mumbai",
+      "description": "Spacious 3BHK apartment with lake view.",
+      "image": "https://via.placeholder.com/400x200"
+    },
+    {
+      "id": "2",
+      "name": "Retail Space Downtown",
+      "type": "Retail Store",
+      "price": 2500000,
+      "location": "Bangalore",
+      "description": "Prime retail store located in the city center.",
+      "image": "https://via.placeholder.com/400x200"
+    },
+    {
+      "id": "bbcb",
+      "name": "lala",
+      "type": "Plot",
+      "price": "200000000000",
+      "location": "loaa",
+      "description": "fksdkjsdk.jasd",
+      "image": "https://via.placeholder.com/400x200"
+    },
+    {
+      "id": "3a8b",
+      "name": "mlasdklasj",
+      "type": "Apartment",
+      "price": "9984384923849",
+      "location": "eiciwehiw",
+      "description": "sdjhvkdhkdsh",
+      "image": "https://via.placeholder.com/400x200"
+    }
+  ]
+}
